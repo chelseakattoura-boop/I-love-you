@@ -1,0 +1,7 @@
+{
+  "name": "Remix: Myrēa",
+  "description": "Personalized skincare platform combining skin tracking, Lebanese ethnobotanical wisdom, and AI-driven analysis for a playful, educational experience.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
